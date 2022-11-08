@@ -1,0 +1,13 @@
+
+public class TesteSistemaInterno {
+
+	public static void main(String[] args) {
+		
+		Autenticavel gerente = new Gerente();
+		
+		gerente.autentica(2222);
+		
+		
+		
+	}
+}

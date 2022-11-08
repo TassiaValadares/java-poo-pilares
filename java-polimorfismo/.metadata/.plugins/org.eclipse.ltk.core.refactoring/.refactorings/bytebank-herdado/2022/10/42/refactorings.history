@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Gerente.altenticacao(...)&apos; to &apos;autenticacao&apos;&#x0D;&#x0A;- Original project: &apos;bytebank-herdado&apos;&#x0D;&#x0A;- Original element: &apos;Gerente.altenticacao(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Gerente.autenticacao(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;altenticacao&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Gerente.java[Gerente~altenticacao~I" name="autenticacao" references="true" stamp="1665690407635" version="1.0"/>
+</session>

@@ -1,0 +1,30 @@
+
+public class Fiscal implements Autenticavel {
+
+	private int senha;
+	private SenhaAutenticavel autenticador;
+	
+	Fiscal() {
+		
+		this.autenticador = new SenhaAutenticavel();
+	}
+	
+	@Override
+	public void setSenha(int senha) {
+		
+		this.senha = senha;
+
+	}
+
+	@Override
+	public boolean autentica(int senha) {
+		
+		if(this.senha == senha) {
+			
+			return true;
+		}
+		
+		return false;
+	}
+
+}

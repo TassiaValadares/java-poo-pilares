@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Conta.java&apos; to &apos;SenhaAutenticavel.java&apos;&#x0D;&#x0A;- Original project: &apos;bytebank-herdado-pratica&apos;&#x0D;&#x0A;- Destination element: &apos;SenhaAutenticavel.java&apos;&#x0D;&#x0A;- Original element: &apos;Conta.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;{SenhaAutenticavel.java" element1="Conta.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1667485249293" units="0" version="1.0"/>
+</session>

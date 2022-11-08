@@ -1,0 +1,22 @@
+
+public class Administrador extends Funcionario implements Autenticavel {
+
+	@Override
+	public void setSenha(int senha) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public boolean autentica(int senha) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public double getBonificacao() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
